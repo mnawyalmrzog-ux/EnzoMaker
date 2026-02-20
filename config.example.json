@@ -1,21 +1,21 @@
 {
-    "token": "YOUR_BOT_TOKEN_HERE",
+    "token": "MTQ3NDE5MDE0NTYzNTg3NzA2OA.G2K_v1.XlGge8CYoDtFZeUcHXgTm9U5afDOo_ithB4I3g",
     "prefix": "!",
     "owner": [
-        "YOUR_DISCORD_USER_ID_HERE"
+        "1413257808601682100"
     ],
-    "mainguild": "YOUR_MAIN_GUILD_ID_HERE",
-    "voiceRoomID": "VOICE_CHANNEL_ID_HERE",
-    "commandsRoom": "COMMANDS_CHANNEL_ID_HERE",
-    "updatesRoom": "UPDATES_CHANNEL_ID_HERE",
+    "mainguild": "1473750709425012900",
+    "voiceRoomID": "1473993745597730900",
+    "commandsRoom": "1474000747220701204",
+    "updatesRoom": "1474007201067831318",
     "ملاحظة": "  تقدر تخليهم كلهم نفس الويب هوك",
-    "WEBHOOK_URL": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
-    "updatesRoomWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
-    "purchaseWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
-    "joinLeaveWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
-    "buyTokenLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
-    "reportLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
-    "suggestionsLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
-    "subsLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
-    "makerSubsLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE"
+    "WEBHOOK_URL": "https://discord.com/api/webhooks/1474342252972347521/G3cfawZ5BpSIfYoa5TdsKvooPoM13PYO0SQH26eedv1ENHif52Bi5PQVfcrZQWH9xyWY",
+    "updatesRoomWebhookUrl": "https://discord.com/api/webhooks/1474342252972347521/G3cfawZ5BpSIfYoa5TdsKvooPoM13PYO0SQH26eedv1ENHif52Bi5PQVfcrZQWH9xyWY",
+    "purchaseWebhookUrl": "https://discord.com/api/webhooks/1474342252972347521/G3cfawZ5BpSIfYoa5TdsKvooPoM13PYO0SQH26eedv1ENHif52Bi5PQVfcrZQWH9xyWY",
+    "joinLeaveWebhookUrl": "https://discord.com/api/webhooks/1474342252972347521/G3cfawZ5BpSIfYoa5TdsKvooPoM13PYO0SQH26eedv1ENHif52Bi5PQVfcrZQWH9xyWY",
+    "buyTokenLogsWebhookUrl": "https://discord.com/api/webhooks/1474342252972347521/G3cfawZ5BpSIfYoa5TdsKvooPoM13PYO0SQH26eedv1ENHif52Bi5PQVfcrZQWH9xyWY",
+    "reportLogsWebhookUrl": "https://discord.com/api/webhooks/1474342252972347521/G3cfawZ5BpSIfYoa5TdsKvooPoM13PYO0SQH26eedv1ENHif52Bi5PQVfcrZQWH9xyWY",
+    "suggestionsLogsWebhookUrl": "https://discord.com/api/webhooks/1474342252972347521/G3cfawZ5BpSIfYoa5TdsKvooPoM13PYO0SQH26eedv1ENHif52Bi5PQVfcrZQWH9xyWY",
+    "subsLogsWebhookUrl": "https://discord.com/api/webhooks/1474342252972347521/G3cfawZ5BpSIfYoa5TdsKvooPoM13PYO0SQH26eedv1ENHif52Bi5PQVfcrZQWH9xyWY",
+    "makerSubsLogsWebhookUrl": "https://discord.com/api/webhooks/1474342252972347521/G3cfawZ5BpSIfYoa5TdsKvooPoM13PYO0SQH26eedv1ENHif52Bi5PQVfcrZQWH9xyWY"
 }
